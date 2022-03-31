@@ -1,5 +1,5 @@
 # CS-300
-Coursework for CS-300 at SNHU
+Coursework for SNHU's CS-300: Data Structures and Algorithms
 
 What was the problem you were solving in the projects for this course?
 
